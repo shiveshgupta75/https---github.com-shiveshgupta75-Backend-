@@ -14,6 +14,6 @@ var x="Hello world";
 //     calculateSum:calculateSum,
 // }
 // common js module
- module.exports={x,calculateSum} // same as above
+ module.exports={x,calculateSum}; // same as above
 // module.exports.x=x;
 // module.exports.calculateSum=calculateSum;
