@@ -8,7 +8,7 @@ var name1="Shivesh";
 var a=10;
 
 var b=20;
-c="my name"
+c="my namee"
 calculateSum(a,b);
 multiply(a,b);
 console.log(c)
